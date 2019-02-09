@@ -3,3 +3,5 @@
 /dist/
 /*.js
 /test/unit/coverage/
+/src/App.vue
+/src/components/HelloWorld.vue
