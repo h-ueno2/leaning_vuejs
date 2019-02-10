@@ -1,8 +1,7 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
+  <ErrorBoundary id="app">
     <router-view/>
-  </div>
+  </ErrorBoundary>
 </template>
 
 <script>
